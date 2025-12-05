@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -9,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">I'm Khairi Bouguedima | Python Developer (Tunisia)</h1>
 
 ###
 
@@ -17,13 +23,9 @@
 
 ###
 
-<h1 align="left">I'm Khairi Bouguedima from Tunisia</h1>
-
-###
-
 <br clear="both">
 
-<h5 align="center">I believe in code that does more than just work—it should be clean, scalable, and a pleasure to maintain.<br><br>As a dedicated Python Developer, I bring enthusiasm and a problem-solving mindset to backend challenges. I thrive on translating complex requirements into elegant, high-performance software.<br><br>    🔭 Building & Delivering: My focus is on robust system development, ensuring code quality and efficiency are paramount.<br><br>    📚 My Next Chapter: Currently diving deep into [Specific, In-Demand Skill, e.g., Asynchronous Python with Trio] to push the boundaries of performance in modern applications.<br><br>    ⚡ Driven by Growth: Outside of my professional commitments, I actively seek ways to sharpen my technical edge, primarily through [Activity, e.g., collaborating on open-source projects or participating in data science challenges].<br><br>I'm always looking for opportunities to leverage my skills in a forward-thinking and collaborative environment.</h5>
+<h5 align="left">I believe in code that does more than just work—it should be clean, scalable, and a pleasure to maintain.<br><br>As a dedicated Python Developer, I bring enthusiasm and a problem-solving mindset to backend challenges. I thrive on translating complex requirements into elegant, high-performance software.<br><br>    🔭 Building & Delivering: My focus is on robust system development, ensuring code quality and efficiency are paramount.<br><br>    📚 My Next Chapter: Currently diving deep into [Specific, In-Demand Skill, e.g., Asynchronous Python with Trio] to push the boundaries of performance in modern applications.<br><br>    ⚡ Driven by Growth: Outside of my professional commitments, I actively seek ways to sharpen my technical edge, primarily through [Activity, e.g., collaborating on open-source projects or participating in data science challenges].<br><br>I'm always looking for opportunities to leverage my skills in a forward-thinking and collaborative environment.</h5>
 
 ###
 
@@ -62,7 +64,3 @@
 </div>
 
 ###
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
